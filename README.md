@@ -84,8 +84,3 @@ plt.imshow(myimage, interpolation = 'nearest')
 plt.axis('off')
 plt.show()
 
-To say Education is important is an understatement. Education is a weapon to improve one’s life. It is probably the most important tool to change one’s life. Education for a child begins at home. It is a lifelong process that ends with death. Education certainly determines the quality of an individual’s life. Education improves one’s knowledge, skills and develops the personality and attitude. Most noteworthy, Education affects the chances of employment for people. A highly educated individual is probably very likely to get a good job. In this essay on importance of education, we will tell you about the value of education in life and society.Education makes an individual a better user of technology. Education certainly provides the technical skills necessary for using technology. Hence, without Education, it would probably be difficult to handle modern machines.
-
-People become more mature with the help of Education. Sophistication enters the life of educated people. Above all, Education teaches the value of discipline to individuals. Educated people also realize the value of time much more. To educated people, time is equal to money.
-
-Finally, Educations enables individuals to express their views efficiently. Educated individuals can explain their opinions in a clear manner. Hence, educated people are quite likely to convince people to their point of view.
